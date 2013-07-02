@@ -15,7 +15,7 @@ module.exports = (grunt) ->
 
       # ## use current sane defaults
       options:
-        layout : "parallel"
+        layout : "pretty"
         output : "docs/"
         timeout : 500
 
